@@ -1,8 +1,8 @@
-For your first project, you are asked to
+For your first project, you are asked to:
 
-    Identify and load a network dataset that has some categorical information available for each node.
-    For each of the nodes in the dataset, calculate degree centrality and eigenvector centrality.
-    Compare your centrality measures across your categorical groups.
+    1. Identify and load a network dataset that has some categorical information available for each node.
+    2. For each of the nodes in the dataset, calculate degree centrality and eigenvector centrality.
+    3. Compare your centrality measures across your categorical groups.
 
 For example, using the dataset from a study of romantic relationships among high school students 
 in Columbus, Ohio [http://researchnews.osu.edu/archive/chains.htm], you might want to determine 
